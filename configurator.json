@@ -1,0 +1,21 @@
+{
+  "Page":[
+          {
+          "URL": "",
+          "HostName": "localhost",
+          "event": [
+              {
+                  "type": "mouseover",
+                  "typeObsel": "typeclic",
+                  "selectors": [
+                      {
+                          "iframe": "yes",
+                          "Selector": "a"
+                      }
+                  ]
+              }
+            ]
+          }
+  ]
+
+}
